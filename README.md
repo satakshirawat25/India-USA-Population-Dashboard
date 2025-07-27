@@ -15,7 +15,10 @@ Country-wise selection: India and USA
 
 - ##  Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Preview.png)
+
+![Dashboard](Dashboard.png)
+
+
 
 
 ##  Files Included
