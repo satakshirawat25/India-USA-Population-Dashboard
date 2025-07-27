@@ -16,7 +16,8 @@ Country-wise selection: India and USA
 - ##  Dashboard Preview
 
 
-![Dashboard](Dashboard.png)
+[Click here to view the dashboard image](Dashboard.png)
+
 
 
 
